@@ -1,0 +1,37 @@
+h1{
+
+  font-size:10vw;
+  text-align: center;
+  text-decoration: underline;
+
+}
+.image-container {
+  text-align: center;
+}
+
+@import url('https://fonts.googleapis.com/css?family=Cedarville+Cursive|Charmonman');
+body {
+  font-family: 'Cedarville Cursive', cursive;
+}
+body {
+  background-color: orange;
+}
+#my-id{
+  color: teal;
+  text-align: center;
+}
+#my-id2{
+  color: teal;
+  text-align: center;
+}
+span{
+  text-align: center;
+}
+p {
+  text-align: center;
+}
+h3{
+  text-align: center;
+  font-sized: 35px;
+  padding: 24px;
+  {
